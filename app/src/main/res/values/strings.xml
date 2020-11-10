@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Simple Lists</string>
+    <string-array name="people">
+        <item>King</item>
+        <item>Immanuel</item>
+        <item>Jedida</item>
+        <item>Matilda</item>
+        <item>Israel</item>
+        <item>Celine</item>
+        <item>Anthony</item>
+        <item>Pena</item>
+        <item>Fortune</item>
+        <item>Esther</item>
+        <item>Nicole</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+        <item>Brian</item>
+    </string-array>
+</resources>
